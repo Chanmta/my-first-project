@@ -1,2 +1,5 @@
 example 1
 hello you
+we project in this week including:
++ create diagram
++ write code
